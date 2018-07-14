@@ -1,0 +1,3 @@
+export const GAME_WORLD_CONNECT = 'GAME_WORLD_CONNECT';
+
+export const SCREEN_CHANGE = 'SCREEN_CHANGE';
